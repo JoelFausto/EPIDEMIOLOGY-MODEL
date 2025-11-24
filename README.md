@@ -2,26 +2,32 @@
 
 ## 📋 Sobre o Projeto
 
-Este projeto investiga a dinâmica de propagação da Tripanossomíase americana (Doença de Chagas) por meio de uma progressão de modelos epidemiológicos baseados em Equações Diferenciais Ordinárias (ODEs). 
-Este projeto implementa uma progressão de modelos matemáticos para estudar a propagação da Doença de Chagas:
+Este projeto visa analisar a dinâmica de propagação da Tripanossomíase americana (Doença de Chagas) utilizando uma progressão de modelos epidemiológicos implementados através de Equações Diferenciais Ordinárias (ODEs). O estudo evolui de modelos populacionais simples para um modelo de múltiplos hospedeiros, refletindo a complexidade do ciclo de vida do parasita Trypanosoma cruzi. Os modelos implementados foram:
 
 - **SIR**: Modelo clássico (Susceptível-Infectado-Recuperado)
 - **SEIR**: Modelo com fase de incubação  
 - **SEIC Host-Vector**: Modelo completo com humanos, vetores e animais reservatórios
 
-## 🏗️ Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
 ```
 epidemiologia-chagas/
-├── modelos_epidemiologicos.py    # Funções dos modelos
+├── modelos_epidemiologicos.py   # Funções dos modelos
 ├── main_simulacao.py            # Programa principal
 ├── requirements.txt             # Dependências
-└── README.md                    # Este arquivo
+└── README.md                    # Documentação do projeto
 ```
 
-## 🔧 Como Executar o Projeto
+## 🛠 Tecnologias Utilizadas
 
 - Python 3 - Linguagem principal
 - NumPy - Cálculos científicos e arrays
 - SciPy - Integração de equações diferenciais
 - Matplotlib - Visualização de gráficos
+
+## 🔧 Como Executar o Projeto
+
+1. Clone este repositório:
+```
+```
+
