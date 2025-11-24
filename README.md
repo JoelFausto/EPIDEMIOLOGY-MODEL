@@ -11,11 +11,13 @@ Este projeto implementa uma progressão de modelos matemáticos para estudar a p
 
 ## 🏗️ Estrutura do Projeto
 
+```
 epidemiologia-chagas/
 ├── modelos_epidemiologicos.py    # Funções dos modelos
 ├── main_simulacao.py            # Programa principal
 ├── requirements.txt             # Dependências
 └── README.md                    # Este arquivo
+```
 
 ## 🔧 Como Executar o Projeto
 
