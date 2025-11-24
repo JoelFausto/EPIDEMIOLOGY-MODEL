@@ -46,6 +46,7 @@ python main_simulacao.py
 
 ## 📑 Fontes Teóricas
 
-- Os conceitos do modelo SEIR foram baseados em "Modeling Infectious Diseases in Humans and Animals" de Keeling & Rohani (Capítulo 2).
+- KEELING, M. J.; ROHANI, P. Modeling Infectious Diseases in Humans and Animals. Princeton: Princeton University Press, 2008.
+
 
 
