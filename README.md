@@ -29,5 +29,23 @@ epidemiologia-chagas/
 
 1. Clone este repositório:
 ```
+https://github.com/JoelFausto/EPIDEMIOLOGY-MODEL.git
 ```
+2. Acesse o diretório do projeto:
+```
+cd EPIDEMIOLOGY-MODEL
+```
+3. Instale as dependências necessárias:
+```
+pip install -r requirements.txt
+```
+4. Execute o script principal:
+```
+python main_simulacao.py
+```
+
+## 📑 Fontes Teóricas
+
+- Os conceitos do modelo SEIR foram baseados em "Modeling Infectious Diseases in Humans and Animals" de Keeling & Rohani (Capítulo 2).
+
 
